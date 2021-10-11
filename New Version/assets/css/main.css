@@ -2552,7 +2552,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: hsla(231, 56%, 39%, 0.658);
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3246,7 +3246,7 @@ input, select, textarea {
 			padding: 7em 0 8.25em 0 ;
 			/* background-color: #412e3e; */
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/slide_2.jpg");
-			background-size: auto,
+			background-size: contain,
 		}
 
 		.wrapper.style1-alt {
@@ -3262,7 +3262,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: hsl(219, 42%, 51%);
 		}
 
 		.wrapper.style3-alt {
@@ -3530,7 +3530,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #4c5c96;
+		background: #242425;
 		cursor: default;
 		height: 100vh;
 		left: 0;
